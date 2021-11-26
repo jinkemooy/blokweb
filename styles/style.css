@@ -1,6 +1,7 @@
 /* CSS Document */
 *, *::after, *::before {
-  box-sizing:border-box;  
+  box-sizing:border-box; 
+  margin: 0; 
 }
 
 ul {
@@ -44,24 +45,68 @@ section img {
 
 li img {
   width: 12em;
+  margin: 1em;
 }
 
 h1 {
   font-size: xx-large;
   position: absolute;
   top: 10em;
+  margin: 1em;
+}
+
+h2 {
+  margin: 0 1em;
+}
+
+h3 {
+  margin: 0 1em;
+}
+
+h4 {
+  margin: 0 1em;
+}
+
+h5 {
+  margin: 0 1em;
+}
+
+button {
+  margin: 0 1em;
+}
+
+p {
+  margin: 1em;
+  padding-bottom: 1em;
 }
 
 li p {
   font-size: small;
 }
 
-.roze {
+/*Eerste roze stuk*/
+section:nth-of-type(4){
+  padding-top: 2em;
+  height: 20em;
   background-color: rgb(249, 159, 201);
 }
 
-.badkuip {
-  height: 40em;
+/*Tweede roze stuk*/
+section:nth-of-type(8){
+  padding-top: 2em;
+  height: 100em;
   width: fit-content;
   background-color: rgb(249, 159, 201);
+}
+
+/*Groene stuk*/
+section:nth-of-type(9){
+  padding-top: 2em;
+  height: 20em;
+  background-color: rgb(56, 217, 201);
+}
+
+/*Zeep*/
+section:nth-of-type(11){
+  background-image: url("../images/afbeeldingen homepagina/misrule-banner-v2_984f2211.jpg");
 }

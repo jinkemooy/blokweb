@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
-Jinke Mooy
+Sanne 't Hooft (vervangen door jouw naam)
 
 #### Je startniveau:
-Blauw
+hier je startniveau (kies uit zwart, rood óf blauw)
 
 #### Je focus:
-Surface plane
+hier je focus (kies uit responsive óf surface plane)
  
 </details>
 
@@ -36,15 +36,15 @@ Surface plane
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-https://www.lush.com/uk/en
+link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-Welcome to our fresh new look | Lush Fresh Handmade Cosmetics 
-<img width="289" alt="homepagina" src="https://user-images.githubusercontent.com/94449426/143560369-4d25f74d-2207-48f7-8bfc-040a1f091123.png" alt="omschrijving van de pagina">
+hier de naam van de pagina  
+<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-Christmas Gifts 2021 | Lush Fresh Handmade Cosmetics  
-<img width="289" alt="productpagina" src="https://user-images.githubusercontent.com/94449426/143560544-0bee7191-1c10-4bc3-a580-5319fc4f6dab.png" alt="omschrijving van de pagina">
+hier de naam van de pagina  
+<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
@@ -56,7 +56,7 @@ Christmas Gifts 2021 | Lush Fresh Handmade Cosmetics
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina: 
-![iPhone 12 Pro Max – 1](https://user-images.githubusercontent.com/94449426/143561012-5b1a5a4d-a21c-4d13-802b-4903cbd99f49.png
+<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
 
 ### dynamisch deel (bijv menu): 
 <img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
@@ -73,18 +73,10 @@ Christmas Gifts 2021 | Lush Fresh Handmade Cosmetics
 ## Voortgang 1 (week 2)
 
 <details open>
-<summary>Ik ben begonnen aan de HTML en CSS van de Lush website. In de les kon ik wat dingen vragen aan Rowin en dat heeft ook erg geholpen. Alleen toen ik vandaag de Lush website opende was hij opeens helemaal veranderd, dus nu twijfel ik of ik nog verder zal gaan of opnieuw ga beginnen met de nieuwe site.</summary>
+<summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-Wat ging er goed:
- - Het opzetten van de HTML ging best wel goed tot nu toe.
- - Het begin van de CSS ging ook wel goed.
- 
- Wat ging er mis:
- - De svg's zijn een beetje vaag, er zijn alleen sterretjes en verder geen andere iconen.
- - De website is helemaal veranderd opeens.
-<img width="289" alt="homepagina" src="https://user-images.githubusercontent.com/94449426/143575782-f29e6952-4fa5-4955-bc1e-19f080d8ad5d.png">
-<img width="281" alt="nieuwe homepagina" src="https://user-images.githubusercontent.com/94449426/143575800-684de2a7-e55e-4445-8617-6459949b3e73.png">
+hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
 
 ### Agenda voor meeting
