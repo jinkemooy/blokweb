@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
-Sanne 't Hooft (vervangen door jouw naam)
+Jinke Mooy
 
 #### Je startniveau:
-hier je startniveau (kies uit zwart, rood óf blauw)
+Blauw
 
 #### Je focus:
-hier je focus (kies uit responsive óf surface plane)
+Surface plane
  
 </details>
 
@@ -36,15 +36,15 @@ hier je focus (kies uit responsive óf surface plane)
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+https://www.lush.com/uk/en
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Welcome to our fresh new look | Lush Fresh Handmade Cosmetics 
+<img width="289" alt="homepagina" src="https://user-images.githubusercontent.com/94449426/143560369-4d25f74d-2207-48f7-8bfc-040a1f091123.png" alt="omschrijving van de pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Christmas Gifts 2021 | Lush Fresh Handmade Cosmetics  
+<img width="289" alt="productpagina" src="https://user-images.githubusercontent.com/94449426/143560544-0bee7191-1c10-4bc3-a580-5319fc4f6dab.png" alt="omschrijving van de pagina">
  
 </details>
 
