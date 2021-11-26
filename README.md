@@ -56,7 +56,7 @@ Christmas Gifts 2021 | Lush Fresh Handmade Cosmetics
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina: 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+![iPhone 12 Pro Max – 1](https://user-images.githubusercontent.com/94449426/143561012-5b1a5a4d-a21c-4d13-802b-4903cbd99f49.png)alt="breakdown van de hele pagina">
 
 ### dynamisch deel (bijv menu): 
 <img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
