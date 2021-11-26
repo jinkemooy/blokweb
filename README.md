@@ -85,7 +85,10 @@ Wat ging er goed:
  Wat ging er mis:
  - De SVG's zijn nog vaag, ik heb alleen sterretjes en verder geen andere iconen.
  - Ik struggle nog een beetje met GitHub.
- - Lush heeft de homepagina veranderd.
+ - Lush heeft de homepagina veranderd:
+<img width="289" alt="homepagina" src="https://user-images.githubusercontent.com/94449426/143577708-bd1a235a-409a-484f-b868-b3ce5abafad3.png">
+<img width="281" alt="nieuwe homepagina" src="https://user-images.githubusercontent.com/94449426/143577718-3528e7e1-5116-4aaa-bec2-c12bebce16a5.png">
+
 
 
 ### Agenda voor meeting
