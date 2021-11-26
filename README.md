@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
-Sanne 't Hooft (vervangen door jouw naam)
+Jinke Mooy
 
 #### Je startniveau:
-hier je startniveau (kies uit zwart, rood óf blauw)
+Blauw
 
 #### Je focus:
-hier je focus (kies uit responsive óf surface plane)
+Surface plane
  
 </details>
 
@@ -36,15 +36,17 @@ hier je focus (kies uit responsive óf surface plane)
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+https://www.lush.com/uk/en
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Welcome to our fresh new look | Lush Fresh Handmade Cosmetics
+<img width="289" alt="homepagina" src="https://user-images.githubusercontent.com/94449426/143576893-e94c9b97-a737-4dde-9bb1-70d61217f3f4.png">
+
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Christmas Gifts 2021 | Lush Fresh Handmade Cosmetics
+<img width="289" alt="productpagina" src="https://user-images.githubusercontent.com/94449426/143576944-ee1023bc-eff9-4c48-ba82-d8cd95bb49ed.png">
+
  
 </details>
 
@@ -53,10 +55,11 @@ hier de naam van de pagina
 ## Breakdownschets (week 1)
 
 <details>
-<summary>uitwerken na afloop 2e werkgroep</summary>
+<summary>In de tweede werkgroep heb ik een breakdownschets van de homepagina van Lush gemaakt. Ik heb hierbij de HTML elementen die ik nodig zal hebben vastgesteld.</summary>
 
 ### de hele pagina: 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+![iPhone 12 Pro Max – 1](https://user-images.githubusercontent.com/94449426/143577103-e67baec6-292f-4124-9406-d7ee8e1febab.png)
+
 
 ### dynamisch deel (bijv menu): 
 <img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
@@ -73,10 +76,16 @@ hier de naam van de pagina
 ## Voortgang 1 (week 2)
 
 <details open>
-<summary>uitwerken voor 1e voortgang</summary>
+<summary>Ik heb de basic HTML van de homepagina van Lush ongeveer geschreven en ook een beetje CSS. In de les heb ik wat hulp hierbij kunnen krijgen van Rowin, en thuis ging het op zich ook wel goed. Ik zag alleen vandaag dat Lush de website helemaal heeft veranderd, dus ik twijfel nu of ik verder zal gaan of opnieuw zal beginnen met de nieuwe homepagina.</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Wat ging er goed:
+ - De HTML en CSS gingen wel goed tot nu toe.
+ 
+ Wat ging er mis:
+ - De SVG's zijn nog vaag, ik heb alleen sterretjes en verder geen andere iconen.
+ - Ik struggle nog een beetje met GitHub.
+ - Lush heeft de homepagina veranderd.
 
 
 ### Agenda voor meeting
