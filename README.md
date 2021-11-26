@@ -104,9 +104,9 @@ samen met je groepje opstellen
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
+- Headers moeten voor de images, dit kan dan in CSS met order aangepast worden.
+- Er mag maar één h1 per pagina zijn.
+- @font-face in de CSS (niet in header) met het bestand erin zetten.
 - ...
 
 </details>
