@@ -82,6 +82,9 @@ Wat ging er goed:
  
  Wat ging er mis:
  - De svg's zijn een beetje vaag, er zijn alleen sterretjes en verder geen andere iconen.
+ - De website is helemaal veranderd opeens.
+<img width="289" alt="homepagina" src="https://user-images.githubusercontent.com/94449426/143575782-f29e6952-4fa5-4955-bc1e-19f080d8ad5d.png">
+<img width="281" alt="nieuwe homepagina" src="https://user-images.githubusercontent.com/94449426/143575800-684de2a7-e55e-4445-8617-6459949b3e73.png">
 
 
 ### Agenda voor meeting
