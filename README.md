@@ -56,7 +56,7 @@ Christmas Gifts 2021 | Lush Fresh Handmade Cosmetics
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina: 
-![iPhone 12 Pro Max – 1](https://user-images.githubusercontent.com/94449426/143561012-5b1a5a4d-a21c-4d13-802b-4903cbd99f49.png)<alt="breakdown van de hele pagina">
+![iPhone 12 Pro Max – 1](https://user-images.githubusercontent.com/94449426/143561012-5b1a5a4d-a21c-4d13-802b-4903cbd99f49.png
 
 ### dynamisch deel (bijv menu): 
 <img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
@@ -73,10 +73,15 @@ Christmas Gifts 2021 | Lush Fresh Handmade Cosmetics
 ## Voortgang 1 (week 2)
 
 <details open>
-<summary>uitwerken voor 1e voortgang</summary>
+<summary>Ik ben begonnen aan de HTML en CSS van de Lush website. In de les kon ik wat dingen vragen aan Rowin en dat heeft ook erg geholpen. Alleen toen ik vandaag de Lush website opende was hij opeens helemaal veranderd, dus nu twijfel ik of ik nog verder zal gaan of opnieuw ga beginnen met de nieuwe site.</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Wat ging er goed:
+ - Het opzetten van de HTML ging best wel goed tot nu toe.
+ - Het begin van de CSS ging ook wel goed.
+ 
+ Wat ging er mis:
+ - De svg's zijn een beetje vaag, er zijn alleen sterretjes en verder geen andere iconen.
 
 
 ### Agenda voor meeting
