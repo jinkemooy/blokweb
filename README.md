@@ -137,11 +137,9 @@ samen met je groepje opstellen
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
-
+- Geen position absolute gebruiken en dingen met margin verplaatsen, maar gewoon flexbox enzo
+- Het font moet nog ff gefixt worden
+- De img en svg's in de header kunnen in een nav en uit de section
 </details>
 
 
@@ -156,14 +154,14 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ### Bevindingen
 Lijst met je bevindingen die in de test naar voren kwamen:
 
-#### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Voice-Over
+Ik vond het erg confusing om Voice-Over alleen al in te stellen, verder ging het bedienen op de website wel oke. De controls waren even wennen, maar het was wel duidelijk welke elementen geselecteerd waren.
 
 Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
 
 
-#### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Parkinson/spierspasmes
+Dit was echt intens! Ik kon niet eens goed scrollen en ik klikte ook allemaal dingen aan die ik niet wilde. Lijkt me echt heel lastig om hier dagelijks mee te moeten handelen, en ik begrijp nu ook beter hoe belangrijk de toegankelijkheid van je website kan zijn.
 
 Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
 
