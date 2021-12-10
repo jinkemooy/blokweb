@@ -186,29 +186,23 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 ## Voortgang 3 (week 4)
 
 <details>
-<summary>uitwerken voor 3e voortgang</summary>
+<summary>Ik heb een begin gemaakt met mijn tweede pagina</summary>
 
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
 
 ### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+- Ik wil weten of ik voor de tweede pagina voor de body een class mag gebruiken i.v.m. de styling.
+- Ik wil ook weten of onderwerpen van de surface plane die al in mijn website zitten ook meetellen of dat ik er dan nog 5 extra moet.
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Ik kan een class gebruiken voor de tweede pagina voor de styling in css.
+- Goed kijken naar de surface plane onderwerpen die ik wil toevoegen.
+- De onderwerpen van surface plane die al in de website zelf zitten tellen mee.
+- Ik moet nog een main en footer toevoegen in HTML om het meer semantisch correct te maken.
 
 </details>
 
