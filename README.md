@@ -92,14 +92,7 @@ Wat ging er goed:
 
 
 ### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
+- Hoe gebruik ik @font-face
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
@@ -107,7 +100,6 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 - Headers moeten voor de images, dit kan dan in CSS met order aangepast worden.
 - Er mag maar één h1 per pagina zijn.
 - @font-face in de CSS (niet in header) met het bestand erin zetten.
-- ...
 
 </details>
 
@@ -121,18 +113,11 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Na de voortgang moest ik eigenlijk weer heel veel veranderen omdat ik vaak position: absoluut had gebruikt, en de 2e pagina moest ik nog mee beginnen.
 
 
 ### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
+- 
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
@@ -157,25 +142,10 @@ Lijst met je bevindingen die in de test naar voren kwamen:
 #### Voice-Over
 Ik vond het erg confusing om Voice-Over alleen al in te stellen, verder ging het bedienen op de website wel oke. De controls waren even wennen, maar het was wel duidelijk welke elementen geselecteerd waren.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
 
 #### Parkinson/spierspasmes
 Dit was echt intens! Ik kon niet eens goed scrollen en ik klikte ook allemaal dingen aan die ik niet wilde. Lijkt me echt heel lastig om hier dagelijks mee te moeten handelen, en ik begrijp nu ook beter hoe belangrijk de toegankelijkheid van je website kan zijn.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
 
 </details>
 
@@ -186,10 +156,10 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 ## Voortgang 3 (week 4)
 
 <details>
-<summary>Ik heb een begin gemaakt met mijn tweede pagina</summary>
+<summary>Ik heb een begin gemaakt met mijn tweede pagina, maar ik ben nog niet heel ver.</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik vind Github nog steeds best wel lastig, ik heb de namen van mijn mapjes van de images veranderd, maar nu kan ik dit niet in Github veranderen, of ik moet de hele map er opnieuw in zetten maar dat lukt niet in 1 keer want je kan maar 100 bestanden tegelijk erop zetten.
 
 
 ### Agenda voor meeting
@@ -235,8 +205,6 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+1. https://stackoverflow.com/questions/38213329/how-to-add-css3-transition-with-html5-details-summary-tag-reveal - Voor de uitklap animatie van de footer
 
 </details>
