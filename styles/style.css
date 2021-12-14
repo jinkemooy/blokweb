@@ -8,6 +8,16 @@ html {
   height: 100%;
 }
 
+body > button {
+  position: fixed;
+  background-color: black;
+  right: 0;
+  top: 50%;
+  border: 4px solid white;
+  border-radius: 100%;
+  margin: 1em;
+}
+
 @font-face {
   font-family: Helvetica Now Display, Arial, Helvetica, sans-serif;
   src: url("../fonts/HelveticaNowDisplay-Regular.ttf");
@@ -28,22 +38,24 @@ header h1 {
 
 /*Header*/
 nav {
-  margin-top: 2em;
-  height: 2em;
   display: flex;
   align-items: center;
   gap: 1em;
+  height: 4em;
 }
 
 header nav a:first-of-type img {
-  height: 3em;
+  height: 2.7em;
 }
 
 header nav a {
-  height: 1.1em;
-  display: flex;
-  flex-direction: row;
+  margin-bottom: 0;
 }
+
+header nav a svg {
+  height: 1.1em;
+}
+
 header nav a:nth-of-type(4) img {
   height: 1.3em;
   display: flex;
@@ -66,7 +78,7 @@ ul {
   margin: 0;
   padding: 0;
   list-style: none;
-  width: 100vw;
+  width: 100%;
   overflow-x: scroll;
   white-space: nowrap;
 }
@@ -86,7 +98,6 @@ margin: 0 auto;
 
 ul li button svg{
   width: 1.2em;
-
 }
 
 li p {
@@ -121,7 +132,7 @@ li img {
 }
 
 /*Fonts*/
-h1 {
+.homepagina h1 {
   font-family: Lush Handwritten WLat;
   font-weight: bold;
   font-size: 15vw;
@@ -184,7 +195,7 @@ p {
 }
 
 /*Find your island*/
-main section:nth-of-type(1) {
+.homepagina main section:nth-of-type(1) {
   height: 130vw;
   display: flex;
   flex-direction: column;
@@ -192,12 +203,12 @@ main section:nth-of-type(1) {
   align-items: center;
 }
 
-main section:nth-of-type(1) ul{
+.homepagina main section:nth-of-type(1) ul{
   position: absolute;
   -webkit-mask-image: linear-gradient(90deg, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 5%, rgb(0, 0, 0) 95%, rgba(0, 0, 0, 0) 100%);
 }
 
-section:nth-of-type(1) video {
+.homepagina main section:nth-of-type(1) video {
   display: block;
   position: absolute;
   overflow: hidden;
@@ -207,11 +218,11 @@ section:nth-of-type(1) video {
   object-fit: cover;
 }
 
-section:nth-of-type(1) h1 {
+.homepagina main section:nth-of-type(1) h1 {
   top: 35vw;
 }
 
-section:nth-of-type(1) button{
+.homepagina main section:nth-of-type(1) button{
   display: flex;
   align-items: center;
   justify-content: center;
@@ -220,12 +231,12 @@ section:nth-of-type(1) button{
   width: 60vw;
   border: none;
 }
-section:nth-of-type(1) a{
+.homepagina main section:nth-of-type(1) a{
   font-weight: normal;
 }
 
 /*Grijze stuk*/
-section:nth-of-type(2){
+.homepagina section:nth-of-type(2){
   color: white;
   padding: 2em 2em 0 2em;
   margin-top: 1em;
@@ -234,17 +245,17 @@ section:nth-of-type(2){
   display: flex;
   flex-direction: column;
 }
-section:nth-of-type(2) img{
+.homepagina section:nth-of-type(2) img{
   height: 25vw;
   width: 25vw;
   left: 10vw;
   order: 1;
 }
-section:nth-of-type(2) h3{
+.homepagina section:nth-of-type(2) h3{
   order: 2;
   margin: 1em 0;
 }
-section:nth-of-type(2) button{
+.homepagina section:nth-of-type(2) button{
   color: white;
   font-size: 4vw;
   background-color: transparent;
@@ -255,52 +266,52 @@ section:nth-of-type(2) button{
 }
 
 /*bath bombs*/
-section:nth-of-type(3) li{
+.homepagina section:nth-of-type(3) li{
   padding: 0 0 1em 1em;
 }
-section:nth-of-type(3) li:last-of-type{
+.homepagina section:nth-of-type(3) li:last-of-type{
   padding-right: 1em;
 }
 
 /*badkuip*/
-section:nth-of-type(4){
+.homepagina section:nth-of-type(4){
   display: flex;
   flex-direction: column;
   align-items: center;
   padding-bottom: 2em;
 }
-section:nth-of-type(4) h3 {
+.homepagina section:nth-of-type(4) h3 {
   order: 2;
   text-align: center;
   width: 90vw;
   margin-top: 1em;
 }
-section:nth-of-type(4) image {
+.homepagina section:nth-of-type(4) image {
   order: 1;
 }
-section:nth-of-type(4) button {
+.homepagina section:nth-of-type(4) button {
   order: 3;
   font-size: 4vw;
   margin-top: 1em;
 }
 
 /*merch*/
-section:nth-of-type(5){
+.homepagina section:nth-of-type(5){
   display: flex;
   flex-direction: column;
   align-items: center;
   padding-bottom: 2em;
 }
-section:nth-of-type(5) h3 {
+.homepagina section:nth-of-type(5) h3 {
   order: 2;
   text-align: center;
   width: 90vw;
   margin-top: 1em;
 }
-section:nth-of-type(5) image {
+.homepagina section:nth-of-type(5) image {
   order: 1;
 }
-section:nth-of-type(5) button {
+.homepagina section:nth-of-type(5) button {
   order: 3;
   width: 80vw;
   font-size: 4vw;
@@ -308,26 +319,26 @@ section:nth-of-type(5) button {
 }
 
 /*Groene stuk*/
-section:nth-of-type(6){
+.homepagina section:nth-of-type(6){
   padding: 2em 2em 3em 2em;
   background-color: rgb(56, 217, 201);
   display: flex;
   flex-direction: column;
 }
-section:nth-of-type(6) img {
+.homepagina section:nth-of-type(6) img {
   height: 25vw;
   width: 20vw;
   order: 1;
 }
-section:nth-of-type(6) h3 {
+.homepagina section:nth-of-type(6) h3 {
   order: 2;
   margin-top: 1em;
 }
-section:nth-of-type(6) p {
+.homepagina section:nth-of-type(6) p {
   order: 3;
   margin: 1em 0;
 }
-section:nth-of-type(6) button {
+.homepagina section:nth-of-type(6) button {
   order: 4;
   background-color: transparent;
   width: 50vw;
@@ -335,53 +346,53 @@ section:nth-of-type(6) button {
 }
 
 /*Christmas gifts*/
-section:nth-of-type(7) li{
+.homepagina section:nth-of-type(7) li{
   padding: 0 0 1em 1em;
 }
-section:nth-of-type(7) li:last-of-type{
+.homepagina section:nth-of-type(7) li:last-of-type{
   padding-right: 1em;
 }
 
 /*be somewhere else*/
-section:nth-of-type(8){
+.homepagina section:nth-of-type(8){
   display: flex;
   flex-direction: column;
   align-items: center;
   padding-bottom: 2em;
 }
-section:nth-of-type(8) h3 {
+.homepagina section:nth-of-type(8) h3 {
   order: 2;
   text-align: center;
   width: 90vw;
   margin-top: 1em;
 }
-section:nth-of-type(8) image {
+.homepagina section:nth-of-type(8) image {
   order: 1;
 }
-section:nth-of-type(8) button {
+.homepagina section:nth-of-type(8) button {
   order: 3;
   font-size: 4vw;
   margin-top: 1em;
 }
 
 /*cult product*/
-section:nth-of-type(9){
+.homepagina section:nth-of-type(9){
   display: flex;
   flex-direction: column;
   align-items: center;
   padding-bottom: 2em;
   margin-bottom: 2em;
 }
-section:nth-of-type(9) h3 {
+.homepagina section:nth-of-type(9) h3 {
   order: 2;
   text-align: center;
   width: 90vw;
   margin-top: 1em;
 }
-section:nth-of-type(9) image {
+.homepagina section:nth-of-type(9) image {
   order: 1;
 }
-section:nth-of-type(9) button {
+.homepagina section:nth-of-type(9) button {
   order: 3;
   font-size: 4vw;
   margin-top: 1em;
@@ -389,81 +400,81 @@ section:nth-of-type(9) button {
 }
 
 /*Lange groene stuk*/
-section:nth-of-type(10){
+.homepagina section:nth-of-type(10){
   background-color: rgb(56, 217, 201);
   margin-bottom: 2em;
   padding-bottom: 1em;
 }
-section:nth-of-type(10) h2 {
+.homepagina section:nth-of-type(10) h2 {
   font-size: 10vw;
   text-align: center;
   font-weight: 850;
   padding-top: 1.5em;
 }
-section:nth-of-type(10) h3 {
+.homepagina section:nth-of-type(10) h3 {
   order: 2;
   text-align: center;
   margin-top: .5em;
 }
-section:nth-of-type(10) p{
+.homepagina section:nth-of-type(10) p{
   text-align: center;
 }
-section:nth-of-type(10) p:first-of-type {
+.homepagina section:nth-of-type(10) p:first-of-type {
   margin-bottom: 2em;
 }
 
 /*Subscription boxes*/
-section:nth-of-type(11){
+.homepagina section:nth-of-type(11){
   padding-top: 2em;
   margin-bottom: 2em;
   background-image: url("../images/afbeeldingen homepagina/snow-fairy-body_02f0ec17.jpg");
   background-size: cover;
   padding-bottom: 1em;
 }
-section:nth-of-type(11) h2 {
+.homepagina section:nth-of-type(11) h2 {
   font-size: 10vw;
   text-align: left;
   font-weight: 850;
   margin: 1em;
 }
-section:nth-of-type(11) h3 {
+.homepagina section:nth-of-type(11) h3 {
   text-align: center;
   margin-top: 1em;
 }
-section:nth-of-type(11) p {
+.homepagina section:nth-of-type(11) p {
   text-align: center;
   margin-left: 6vw;
   margin-right: 6vw;
 }
-section:nth-of-type(11) p:nth-of-type(1) {
+.homepagina section:nth-of-type(11) p:nth-of-type(1) {
   margin-left: 12vw;
   margin-right: 15vw;
   text-align: left;
 }
 
 /*Zeep*/
-section:nth-of-type(12){
+.homepagina section:nth-of-type(12){
   background-image: url("../images/afbeeldingen homepagina/luxe-bath-bomb-2_8fba018d.jpg");
   padding-bottom: 1em;
   background-size: cover;
 }
-section:nth-of-type(12) h2 {
+.homepagina section:nth-of-type(12) h2 {
   font-size: 10vw;
   text-align: center;
   line-height: 13vw;
   font-weight: 850;
   padding: 1em 0;
 }
-section:nth-of-type(12) h3 {
+.homepagina section:nth-of-type(12) h3 {
   text-align: center;
   padding: 1em 0 0 0;
 }
-section:nth-of-type(12) p {
+.homepagina section:nth-of-type(12) p {
   text-align: center;
 }
 
 /*iconen menu*/
-section:nth-of-type(13) img{
+.homepagina main section:nth-of-type(13) img{
   height: 95vw;
   width: 50vw;
   margin-left: 5vw;
@@ -475,12 +486,12 @@ footer section {
   color: white;
   background-color: black;
   text-align: center;
-  padding-bottom: 2em;
+  padding-bottom: 1em;
 }
 footer section input {
-  width: 90%;
-  height: 4em;
-  color: lightgray;
+  width: 95%;
+  height: 4.5em;
+  color: gray;
   background-color: rgb(59, 59, 59);
   border: none;
   padding-left: 4vw;
@@ -529,11 +540,12 @@ footer section details{
   text-align: left;
   margin: 1em;
 }
+footer section details:last-of-type {
+  padding-bottom: 5em;
+}
 footer section ul{
   display: block;
-  list-style: none;
-  width: 100vw;
-  overflow-x: scroll;
+  width: auto;
 }
 footer section ul li a {
   padding: 0;
@@ -546,4 +558,71 @@ footer section ul li a {
   font-size: .65em;
   text-decoration: underline;
   line-height: .7em;
+}
+footer section button {
+  display: flex;
+  color: white;
+  background-color: black;
+  letter-spacing: .1em;
+  font-size: .75em;
+  width: 100%;
+  justify-content: center;
+  border-top: 1px rgb(51, 51, 51);
+}
+footer section button img{
+  height: 1.5em;
+  width: 1.5em;
+  margin-right: 1em;
+}
+footer section p:last-of-type {
+  text-align: center;
+}
+
+/* ************************************************************************************************************* */
+/* PRODUCTPAGINA */
+/* ************************************************************************************************************* */
+
+/* Christmas 2021 en filter buttons */
+.productpagina main section:first-of-type {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.productpagina main section:first-of-type h1 {
+    font-family: Helvetica Now Display;
+    font-weight: 800;
+    font-size: 3.5em;
+    text-align: left;
+    margin-left: 0.3em;
+}
+
+/* Grid */
+.productpagina main section:nth-of-type(2) ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-left: 1em;
+}
+.productpagina main section:nth-of-type(2) li {
+  display: block;
+}
+
+/* Load more button */
+.productpagina main section:nth-of-type(2) button {
+  width: 10em;
+  padding: 1em;
+}
+
+/* No time like the present */
+.productpagina main section:nth-of-type(3) h3 {
+  font-weight: 700;
+  font-size: 1.8em;
+  margin-left: .5em;
+}
+
+/* Iconen menu */
+.productpagina section:nth-of-type(4) img{
+  height: 95vw;
+  width: 50vw;
+  margin-left: 5vw;
+  margin-top: 30vw;
 }
