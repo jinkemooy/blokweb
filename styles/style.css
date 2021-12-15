@@ -8,8 +8,13 @@ html {
   height: 100%;
 }
 
-body > button {
+body > a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   position: fixed;
+  height: 4.5em;
+  width: 4.5em;
   background-color: black;
   right: 0;
   top: 50%;
@@ -127,6 +132,10 @@ section img {
 }
 
 li img {
+  width: 100%;
+}
+
+.homepagina li img {
   width: 50vw;
   margin: 4vw;
 }
@@ -427,7 +436,7 @@ p {
 .homepagina section:nth-of-type(11){
   padding-top: 2em;
   margin-bottom: 2em;
-  background-image: url("../images/afbeeldingen homepagina/snow-fairy-body_02f0ec17.jpg");
+  background-image: url("../images/afbeeldingen_homepagina/snow-fairy-body_02f0ec17.jpg");
   background-size: cover;
   padding-bottom: 1em;
 }
@@ -454,7 +463,7 @@ p {
 
 /*Zeep*/
 .homepagina section:nth-of-type(12){
-  background-image: url("../images/afbeeldingen homepagina/luxe-bath-bomb-2_8fba018d.jpg");
+  background-image: url("../images/afbeeldingen_homepagina/luxe-bath-bomb-2_8fba018d.jpg");
   padding-bottom: 1em;
   background-size: cover;
 }
@@ -487,6 +496,15 @@ footer section {
   background-color: black;
   text-align: center;
   padding-bottom: 1em;
+  overflow: hidden;
+}
+footer img {
+  width: 500%;
+  height: 5rem;
+  position: relative;
+  bottom: 2.5em;
+  transform: translate3d(-500px, 0px, 0px);
+  
 }
 footer section input {
   width: 95%;
@@ -500,7 +518,7 @@ footer section input {
 }
 footer section h2 {
   padding-left: 4vw;
-  padding-top: 40vw;
+  padding-top: 2em;
   text-align: left;
 }
 footer section p {
@@ -582,34 +600,94 @@ footer section p:last-of-type {
 /* PRODUCTPAGINA */
 /* ************************************************************************************************************* */
 
-/* Christmas 2021 en filter buttons */
+/* Christmas 2021 */
 .productpagina main section:first-of-type {
   display: flex;
   align-items: center;
   flex-direction: column;
 }
+.productpagina main section:first-of-type ul li a {
+  font-weight: 400;
+}
+
 .productpagina main section:first-of-type h1 {
     font-family: Helvetica Now Display;
     font-weight: 800;
-    font-size: 3.5em;
+    font-size: 3.1em;
     text-align: left;
     margin-left: 0.3em;
 }
 
+/* Filter buttons */
+.productpagina main section:first-of-type ul li
+{
+  justify-content: space-between;
+}
+
+.productpagina main section:first-of-type button {
+  border-radius: 0;
+  font-size: .7em;
+  font-weight: 400;
+  text-transform: uppercase;
+  background-color: rgb(234, 234, 234);
+}
+
 /* Grid */
+.productpagina main section:nth-of-type(2) {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 5em;
+}
+
 .productpagina main section:nth-of-type(2) ul {
   display: grid;
   grid-template-columns: 1fr 1fr;
+  white-space: unset;
+  padding: 1em;
+}
+
+.productpagina main section:nth-of-type(2) ul li {
+  background-color: rgb(244, 242, 244);
+  border-radius: 10px;
+  margin: 1em;
+  height: 85%;
+}
+
+.productpagina main section:nth-of-type(2) ul li h4 {
+  margin-left: .7em;
+}
+
+.productpagina main section:nth-of-type(2) ul li h5 {
   margin-left: 1em;
 }
-.productpagina main section:nth-of-type(2) li {
-  display: block;
+
+.productpagina main section:nth-of-type(2) ul li p {
+  font-size: 3vw;
+  font-weight: 400;
+  letter-spacing: .3vw;
+  font-family: Helvetica Now Display;
+  text-align: left;
+  margin-left: 1em;
+}
+
+.productpagina main section:nth-of-type(2) p {
+  text-align: center;
+  font-size: .8em;
 }
 
 /* Load more button */
-.productpagina main section:nth-of-type(2) button {
+.productpagina main section:nth-of-type(2) button:nth-of-type(2) {
   width: 10em;
   padding: 1em;
+}
+
+.productpagina main section:nth-of-type(2) p a {
+  display: inline;
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 1em;
 }
 
 /* No time like the present */
@@ -625,4 +703,65 @@ footer section p:last-of-type {
   width: 50vw;
   margin-left: 5vw;
   margin-top: 30vw;
+  margin-bottom: 3em;
+}
+
+/* ************************************************************************************************************* */
+/* FORMPAGINA */
+/* ************************************************************************************************************* */
+
+.form section:first-of-type {
+  background-color: black;
+  color: white;
+  display: flex;
+}
+
+.form section:first-of-type h1 {
+  font-family: Helvetica Now Display;
+  font-size: 1em;
+  font-weight: 400;
+  text-align: left;
+}
+
+.form section:first-of-type img {
+  height: 4em;
+  width: 4em;
+  padding: 1em;
+  border: 2px solid white;
+  border-radius: 100%;
+  margin: 1em;
+}
+
+.form section:nth-of-type(2) {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 20em;
+}
+
+.form section:nth-of-type(2) input{
+  font-family: Helvetica Now Display;
+  border-top: black;
+  margin-top: 5em;
+  font-size: .8em;
+}
+
+.form section:nth-of-type(2) label{
+  font-family: Helvetica Now Display;
+  letter-spacing: .3vw;
+  border-top: black;
+  margin-top: 5em;
+  font-size: .8em;
+}
+
+.form section:last-of-type {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.form section:last-of-type button {
+  background-color: black;
+  color: white;
+  padding: .5em 3em;
+  border-radius: 10px;
 }
