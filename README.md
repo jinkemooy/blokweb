@@ -168,7 +168,7 @@ Ik vind Github nog steeds best wel lastig, ik heb de namen van mijn mapjes van d
 ## Eindgesprek (week 5)
 
 <details>
-<summary>Ik heb alles op zich kunnen fixen, alleen de scroll animatie is me niet gelukt. Ik heb wel een uitklapscherm gemaakt voor de sticky button.Eerst was dit gewoon een link naar een nieuwe pagina.</summary>
+<summary>Ik heb alles op zich kunnen fixen, alleen de scroll animatie is me niet gelukt. Ik heb wel een uitklapscherm gemaakt voor de sticky button.Eerst was dit gewoon een link naar een nieuwe pagina. Ik heb de validator gebruikt en er kwamen allemaal errors van duplicate ID, volgens mij zijn deze allemaal van de paths in de SVG's maar ik weet niet hoe ik dit weer goed krijg.</summary>
 
 ### Stand van zaken
 Wat ging goed:
