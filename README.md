@@ -13,7 +13,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Jij
 
 <details>
-<summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
 Jinke Mooy
@@ -33,7 +32,6 @@ Surface plane
 ## Je website
 
 <details>
-<summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
 https://www.lush.com/uk/en
@@ -59,13 +57,6 @@ Christmas Gifts 2021 | Lush Fresh Handmade Cosmetics
 
 ### de hele pagina: 
 ![iPhone 12 Pro Max – 1](https://user-images.githubusercontent.com/94449426/143577103-e67baec6-292f-4124-9406-d7ee8e1febab.png)
-
-
-### dynamisch deel (bijv menu): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
-### wellicht nog een dynamisch deel (bijv filter): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
@@ -95,8 +86,6 @@ Wat ging er goed:
 - Hoe gebruik ik @font-face
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
 - Headers moeten voor de images, dit kan dan in CSS met order aangepast worden.
 - Er mag maar één h1 per pagina zijn.
 - @font-face in de CSS (niet in header) met het bestand erin zetten.
@@ -110,18 +99,16 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ## Voortgang 2 (week 3)
 
 <details>
-<summary>uitwerken voor 2e voortgang</summary>
+<summary>Mijn eerste pagina is wel grotendeels af, alleen de footer moet nog aangepast worden en de sticky button met chat.</summary>
 
 ### Stand van zaken
-Na de voortgang moest ik eigenlijk weer heel veel veranderen omdat ik vaak position: absoluut had gebruikt, en de 2e pagina moest ik nog mee beginnen.
+Na de voortgang moest ik eigenlijk weer heel veel veranderen omdat ik vaak position: absoluut had gebruikt, en de 2e pagina moet ik nog mee beginnen.
 
 
 ### Agenda voor meeting
 - 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
 - Geen position absolute gebruiken en dingen met margin verplaatsen, maar gewoon flexbox enzo
 - Het font moet nog ff gefixt worden
 - De img en svg's in de header kunnen in een nav en uit de section
@@ -134,13 +121,12 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ## Toegankelijkheidstest (week 4)
 
 <details>
-<summary>uitwerken na test in 8e voortgang</summary>
+<summary>Deze werkgroep hebben we een toegankelijkheidstest gedaan. Er waren brillen die je zicht beperken en een apparaat waar je spierspasmes van kreeg om Parkinson na te bootsen. Het was interessant om zo de toegankelijkheid van onze websites te testen, omdat je er niet echt bij stilstaat hoe mensen met een beperking navigeren door websites.</summary>
 
 ### Bevindingen
-Lijst met je bevindingen die in de test naar voren kwamen:
 
 #### Voice-Over
-Ik vond het erg confusing om Voice-Over alleen al in te stellen, verder ging het bedienen op de website wel oke. De controls waren even wennen, maar het was wel duidelijk welke elementen geselecteerd waren.
+Ik vond het erg verwarrend om Voice-Over alleen al in te stellen, verder ging het bedienen op de website wel oke. De controls waren even wennen, maar het was wel duidelijk welke elementen geselecteerd waren.
 
 
 #### Parkinson/spierspasmes
@@ -168,7 +154,6 @@ Ik vind Github nog steeds best wel lastig, ik heb de namen van mijn mapjes van d
 
 
 ### Verslag van meeting
-
 - Ik kan een class gebruiken voor de tweede pagina voor de styling in css.
 - Goed kijken naar de surface plane onderwerpen die ik wil toevoegen.
 - De onderwerpen van surface plane die al in de website zelf zitten tellen mee.
@@ -183,14 +168,20 @@ Ik vind Github nog steeds best wel lastig, ik heb de namen van mijn mapjes van d
 ## Eindgesprek (week 5)
 
 <details>
-<summary>uitwerken voor eindgesprek</summary>
+<summary>Ik heb alles op zich kunnen fixen, alleen de scroll animatie is me niet gelukt. Ik heb wel een uitklapscherm gemaakt voor de sticky button.Eerst was dit gewoon een link naar een nieuwe pagina.</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Wat ging goed:
+- Ik ben heel blij met het uitklapscherm, ik dacht dat dit heel moeilijk zou zijn, maar op zich ging het wel met javascript.
+- Ik heb nu Github Desktop en dit maakt het makkelijker om mijn bestanden te updaten.
+Wat kon beter:
+- Als ik iets beter had gepland was het minder stressvol geweest.
+- De filter en sorteer buttons zijn nog niet helemaal goed gelukt.
 
 ### Screenshot(s)
 
 hier screenshot(s) van je eindresultaat
+
 
 </details>
 
@@ -201,10 +192,6 @@ hier screenshot(s) van je eindresultaat
 ## Bronnenlijst
 
 <details open>
-<summary>continu bijhouden terwijl je werkt</summary>
-
-Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
-
 1. https://stackoverflow.com/questions/38213329/how-to-add-css3-transition-with-html5-details-summary-tag-reveal - Voor de uitklap animatie van de footer
 
 </details>
