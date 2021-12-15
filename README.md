@@ -183,9 +183,9 @@ Wat kon beter:
 
 ### Screenshot(s)
 
-<img width="289" alt="homepagina" src="readmefiles/homepagina">
-<img width="289" alt="productpagina" src="readmefiles/productpagina">
-<img width="289" alt="chat popup" src="readmefiles/chatpopup">
+<img width="289" alt="homepagina" src="../readmefiles/homepagina">
+<img width="289" alt="productpagina" src="../readmefiles/productpagina">
+<img width="289" alt="chat popup" src="../readmefiles/chatpopup">
 
 </details>
 
