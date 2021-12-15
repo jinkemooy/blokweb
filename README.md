@@ -174,14 +174,18 @@ Ik vind Github nog steeds best wel lastig, ik heb de namen van mijn mapjes van d
 Wat ging goed:
 - Ik ben heel blij met het uitklapscherm, ik dacht dat dit heel moeilijk zou zijn, maar op zich ging het wel met javascript.
 - Ik heb nu Github Desktop en dit maakt het makkelijker om mijn bestanden te updaten.
+- Ik had echt struggles met de grid, maar het is uiteindelijk gelukt
+<img width="289" alt="grid" src="readmefiles/gridstruggle">
+
 Wat kon beter:
 - Als ik iets beter had gepland was het minder stressvol geweest.
 - De filter en sorteer buttons zijn nog niet helemaal goed gelukt.
 
 ### Screenshot(s)
 
-hier screenshot(s) van je eindresultaat
-
+<img width="289" alt="homepagina" src="readmefiles/homepagina">
+<img width="289" alt="productpagina" src="readmefiles/productpagina">
+<img width="289" alt="chat popup" src="readmefiles/chatpopup">
 
 </details>
 
